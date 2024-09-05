@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    
+}
+.card{
+    height: 10rem;
+    width: 8rem;
+    background-color: violet;
+    
+
+}
+#card2{
+    background-color: indigo;
+    position: absolute;
+    top: 3%;
+    left: 3%;
+}
+#card3{
+    background-color: blue;
+    position: absolute;
+    top: 6%;
+    left: 6%;
+}
+#card4{
+    background-color: green;
+    position: absolute;
+    top: 9%;
+    left: 9%;
+}
+#card5{
+    background-color: yellow;
+    position: absolute;
+    top: 12%;
+    left: 12%;
+}
+#card6{
+    background-color: red;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
